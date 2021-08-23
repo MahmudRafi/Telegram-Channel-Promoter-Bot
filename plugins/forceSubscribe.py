@@ -54,7 +54,7 @@ def _check_member(client, message):
       except UserNotParticipant:
         try:
           sent_message = message.reply_text(
-              " {} , আপনি আমাদের অফিসিয়াল টেলিগ্রাম চ্যানেলটিতে JOIN করেননি, তাই আপনাকে Mute করে দেওয়া হয়েছে, গ্রুপে কথা বলার জন্য আপনাকে JOIN Our Channel বাটনটিতে ক্লিক করে আমাদের অফিসিয়াল চ্যানেলটিতে JOIN করে আসার পর নিচের Unmute Me বাটনটিতে ক্লিক করলেই আপনি গ্রুপে কথা বলতে পারবেন। @RootOfCyber".format(message.from_user.mention, channel, channel),
+              " {} , আপনি আমাদের অফিসিয়াল টেলিগ্রাম চ্যানেলটিতে JOIN করেননি, তাই আপনাকে Mute করে দেওয়া হয়েছে, গ্রুপে কথা বলার জন্য আপনাকে JOIN Our Channel  বাটনটিতে ক্লিক করে আমাদের অফিসিয়াল চ্যানেলটিতে JOIN করে আসার পর নিচের Unmute Me বাটনটিতে ক্লিক করলেই আপনি গ্রুপে কথা বলতে পারবেন। @RootOfCyber".format(message.from_user.mention, channel, channel),
               disable_web_page_preview=True,
              reply_markup=InlineKeyboardMarkup(
             [
