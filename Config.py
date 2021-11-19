@@ -27,4 +27,4 @@ class Messages():
         
        "**Devloped By @Mahmud_Rafi**"
       ]
-      START_MSG = "**Hey [{}](tg://user?id={})**\n__I can force members to join a specific channel before writing messages in the group.\nLearn more at /help .\nDevloped By @Mahmud_Rafi__"
+      START_MSG = "**Hey [{}](tg://user?id={})**\n__I can force members to join a specific channel before writing messages in the group.\nLearn more at /help .\nDeveloped By @Mahmud_Rafi__"
