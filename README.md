@@ -41,7 +41,7 @@ python3 bot.py
 ## Configs:
 - Read `Config.py` to know all configs
 
-### Need help? 💡 Just hit me up on Telegram! 🗯️😎
+<center> ### Need help? 💡 Just hit me up on Telegram! 🗯️😎 </center>
 
 <p align="center">
   <a href="https://t.me/Mahmud_Rafi">
