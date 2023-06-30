@@ -15,12 +15,12 @@
 ## Deploy
 
 ### Deploy To Heroku Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MahmudRafi/roc-promoter-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MahmudRafi/Telegram-Channel-Promoter-Bot)
 
 ### Deploy in vps
 - Clone this repo
 ```
-git clone https://github.com/MahmudRafi/roc-promoter-bot
+git clone https://github.com/MahmudRafi/Telegram-Channel-Promoter-Bot
 ```
 - Change directory
 ```
@@ -40,3 +40,7 @@ python3 bot.py
 ```
 ## Configs:
 - Read `Config.py` to know all configs
+
+Need help? 💡
+Just hit me up on <a href="https://telegram.me/Mahmud_Rafi"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png" alt="💡" width="20" height="20"></a> [@Mahmud_Rafi](https://telegram.me/Mahmud_Rafi) 😎
+
