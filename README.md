@@ -41,6 +41,15 @@ python3 bot.py
 ## Configs:
 - Read `Config.py` to know all configs
 
-Need help? 💡
-Just hit me up on <a href="https://telegram.me/Mahmud_Rafi"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png" alt="💡" width="20" height="20"></a> [@Mahmud_Rafi](https://telegram.me/Mahmud_Rafi) 😎
+### Need help? 💡 Just hit me up on Telegram! 🗯️😎
+
+<p align="center">
+  <a href="https://t.me/Mahmud_Rafi">
+    <img src="https://img.shields.io/badge/Telegram-%40Mahmud__Rafi-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://example.com/awesome-gif.gif" alt="Awesome GIF" width="300" height="200" />
+</p>
 
